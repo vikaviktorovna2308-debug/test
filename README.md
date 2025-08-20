@@ -1,5 +1,5 @@
 # Hello, world!
-I like play football.
+I like play хоккей.
 
 
 Russia is great again!!!
